@@ -1,5 +1,11 @@
+<div align="center">
+<img alt="title" src="https://github.com/user-attachments/assets/4fefb893-3223-4a2e-9cd0-e7b2269cbb70" width="300em" />
+</div>
+
 # 🌾 农业知识图谱与智能算法数据库
 *A Unified Graph-based Management System for Agricultural Intelligence and Data Resources*
+
+> **天工不遗，以配万物；开悟不止，以成百谷。**
 
 ---
 
@@ -28,7 +34,7 @@
 ## 🌱 子图示例
 
 为便于理解系统结构，本项目提供了一个具有代表性的 **知识子图示例**（见 [neo4j_subgraph.json](neo4j_subgraph.json)）。  
-用户可通过导入该文件至 Neo4j 数据库，自行可视化并探索农业知识网络（示例图见 [visualisation.png](visualisation.png）。
+用户可通过导入该文件至 Neo4j 数据库，自行可视化并探索农业知识网络（示例图如下）。
 
 - **规模统计：**
   - 工具节点（Tool）：16 个  
@@ -37,6 +43,8 @@
   - OUTPUT 边：54 条  
   - 节点平均出/入度：1.24  
   - 最大出度：9；最大入度：7  
+
+<img src="visualisation.png" ></img> 
 
 ---
 
